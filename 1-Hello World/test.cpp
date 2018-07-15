@@ -16,6 +16,6 @@ int main() {
 	// endl 是 end of line(換行)，需要在標頭檔區引入 iostream 才能使用
 	// 字串是用""包圍的一串文字
 	// << 是資料的流向
-	cout << "Hello World嗨" << endl; // 寫C++的程式每個敘述(statement)最後一定要加分號(;)
+	cout << "Hello World" << endl; // 寫C++的程式每個敘述(statement)最後一定要加分號(;)
 	return 0; // 告訴呼叫者(命令提示字元)說我執行完了
 }
